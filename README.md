@@ -1,0 +1,2 @@
+# Buerokratt-Documentation
+Bürokratt documentation
